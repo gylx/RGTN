@@ -1,2 +1,2 @@
 # RGTN
-Recurrent Graph Tensor Networks
+Recurrent Graph Tensor Networks experiments
